@@ -1,1 +1,7 @@
 This my first code . This is for learning Git
+<html>
+<head>
+<title>git</title>
+</head>
+<body>
+<h1>it was very helpful</h1>
